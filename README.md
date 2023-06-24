@@ -1,1 +1,1 @@
-getting it
+Starting to undersatnd the basics of coding.
